@@ -1,0 +1,53 @@
+
+body {
+    background: #181b1f;
+}
+
+hr
+{
+    border: 3px, groove;
+}
+
+.description, h4 {
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+h4 {
+    background-color: blue;
+    padding: 10px;
+    padding-left: 10px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.contact {
+    color: aliceblue;
+    font-size: 11px;
+    font-family: 'Signika Negative', sans-serif;
+    margin-top: 20px;
+    background-color: blue;
+    padding: 10px;
+    padding-left: 10px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    margin-left: 20px;
+    margin-right: 1000px;
+
+}
+
+.imgc
+{
+    margin: 0;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
